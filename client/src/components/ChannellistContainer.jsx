@@ -2,8 +2,6 @@ import React, { useState } from 'react';
 import { ChannelList, useChatContext } from 'stream-chat-react';
 import Cookies from 'universal-cookie';
 import { ChannelSearch, TeamChannelList, TeamChannelPreview } from './';
-import HospitalIcon from '../assets/hospital.png'
-import LogoutIcon from '../assets/logout.png'
 import { FaRocketchat } from "react-icons/fa"
 import { RiLogoutCircleLine } from "react-icons/ri"
 import {BsPersonVideo3} from "react-icons/bs"
