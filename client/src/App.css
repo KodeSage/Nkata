@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #005fff;
+    --primary-color: rgb(185, 6, 185);
     --primary-color-alpha: #005fff1a;
   }
   
@@ -25,6 +25,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+  
     padding: 2rem;
     background: #005fff;
   }
@@ -138,7 +139,6 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    cursor: pointer;
   
     margin-top: 0.2rem;
   }
