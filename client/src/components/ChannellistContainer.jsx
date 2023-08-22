@@ -136,7 +136,7 @@ const ChannelListContent = ({
 	);
 };
 
-const ChannelListContainer = ({
+const ChanneLListContainer = ({
 	setCreateType,
 	setIsCreating,
 	setIsEditing,
@@ -175,4 +175,4 @@ const ChannelListContainer = ({
 	);
 };
 
-export default ChannelListContainer;
+export default ChanneLListContainer;
